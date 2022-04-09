@@ -15,8 +15,6 @@ With ease:
 <pre>
 THIS REPOSITORY WAS CREATED AS A PART OF ACTIONS HACKATHON HOSTED BY DEV.TO AND GITHUB,
 </pre>
-
-
 ### Usage
 Example Workflow file
 
